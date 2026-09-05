@@ -1,2 +1,2 @@
 # Sales-Performance-Analysis
-Overview performa penjulana berdasarkan sales, product, customer, city, payment method, rating, dan time period.
+Overview performa penjulan berdasarkan sales, product, customer, city, payment method, rating, dan time period.
